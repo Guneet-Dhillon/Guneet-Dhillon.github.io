@@ -3,7 +3,6 @@ title:
 collection: publications
 permalink:
 excerpt:
-date: 2019
 venue:
 paperurl:
 citation:
