@@ -1,7 +1,7 @@
 ---
 title: "A Baseline for Few-Shot Image Classification"
 collection: publications
-permalink: /publication/a-baseline-for-image-classification
+permalink: /publication/a-baseline-for-few-shot-image-classification
 excerpt:
 date: 2009-12-01
 venue:
