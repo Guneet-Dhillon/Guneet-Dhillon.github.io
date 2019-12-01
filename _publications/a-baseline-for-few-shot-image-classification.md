@@ -1,5 +1,12 @@
 ---
-permalink: /publication/2019-12-01-a-baseline-for-few-shot-image-classification-number-1
+title:
+collection: publications
+permalink: /publication/a-baseline-for-few-shot-image-classification
+excerpt:
+date:
+venue:
+paperurl:
+citation:
 ---
 
 **Guneet S. Dhillon**, Pratik Chaudhari, Avinash Ravichandran, Stefano Soatto
