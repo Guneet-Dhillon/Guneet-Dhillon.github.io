@@ -3,7 +3,7 @@ title:
 collection: publications
 permalink: /publication/a-baseline-for-few-shot-image-classification
 excerpt:
-date:
+date: 2019-12-01
 venue:
 paperurl:
 citation:
