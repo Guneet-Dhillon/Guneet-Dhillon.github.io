@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  research_papers:
     output: true
     permalink: /:collection/:path/
 
@@ -203,7 +203,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research_papers
     values:
       layout: single
       author_profile: true
