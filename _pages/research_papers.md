@@ -14,6 +14,6 @@ author_profile: true
 *In Proceedings of the International Conference on Learning Representations (ICLR), 2018*</br>
 *Short version in Proceedings of the Machine Deception Workshop, Conference on Neural Information Processing Systems (NeurIPS), 2017*
 
-**Guneet S. Dhillon**</br>
-**Training Ising Models on Images using Sparsitron** [PDF]{https://apps.cs.utexas.edu/apps/tech-reports/182206} (2018)</br>
+**Guneet S. Dhillon**.
+**Training Ising Models on Images using Sparsitron** [PDF](https://apps.cs.utexas.edu/apps/tech-reports/182206) (2018).
 *Undergraduate Honors Thesis (Advisor: Dr. Adam Klivans), 2018*
