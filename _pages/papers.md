@@ -5,6 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
+
 **Guneet S. Dhillon**, Pratik Chaudhari, Avinash Ravichandran, Stefano Soatto<br/>
 **A Baseline for Few-Shot Image Classification** ([pdf](https://arxiv.org/pdf/1909.02729.pdf))<br/>
 *In Proceedings of the International Conference on Learning Representations (ICLR), 2020*<br/>
