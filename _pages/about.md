@@ -3,9 +3,6 @@ permalink: /
 title:
 excerpt:
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am an Applied Scientist II at [Amazon Web Services](https://aws.amazon.com/) in Pasadena, California.
