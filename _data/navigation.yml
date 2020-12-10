@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Publications & Theses"
-    url: /papers/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Theses"
+    url: /theses/
+
+  - title: "Patents"
+    url: /patents/
     
   - title: "CV"
     url: /cv/
