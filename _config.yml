@@ -173,13 +173,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-#collections:
-#  research_papers:
-#    output: true
-#    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -200,13 +193,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
-  #- scope:
-  #    path: ""
-  #    type: research_papers
-  #  values:
-  #    layout: single
-  #    author_profile: true
 
 # Sass/SCSS
 sass:
