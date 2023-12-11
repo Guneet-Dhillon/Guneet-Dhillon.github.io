@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guneet Singh Dhillon"
 title_separator          : "-"
 name                     : &name "Guneet Singh Dhillon"
-description              : &description "DPhil Student at the University of Oxford"
+description              : &description "Machine Learning Intern @ Boson AI & DPhil Student @ University of Oxford"
 url                      : https://guneet-dhillon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Guneet-Dhillon/Guneet-Dhillon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guneet Singh Dhillon"
   avatar           : "profile.jpg"
-  bio              : "DPhil Student at the University of Oxford"
+  bio              : "Machine Learning Intern @ Boson AI & DPhil Student @ University of Oxford"
   location         :
   employer         :
   pubmed           :
