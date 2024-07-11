@@ -12,7 +12,7 @@ author_profile: true
 
 **Uniform Sampling over Episode Difficulty** [[pdf](https://arxiv.org/pdf/2108.01662.pdf)]<br/>
 Sébastien M. R. Arnold\*, **Guneet S. Dhillon**\*, Avinash Ravichandran, Stefano Soatto<br/>
-\* Equal contributions<br/>
+\*Equal contributions<br/>
 *In Proceedings of **Advances in Neural Information Processing Systems (NeurIPS) 2021 (Spotlight)***
 
 **A Baseline for Few-Shot Image Classification** [[pdf](https://arxiv.org/pdf/1909.02729.pdf)]<br/>
