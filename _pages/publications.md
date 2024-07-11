@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+**On the Expected Size of Conformal Prediction Sets** [[pdf](https://arxiv.org/pdf/2306.07254.pdf)]<br/>
+**Guneet S. Dhillon**, George Deligiannidis, Tom Rainforth<br/>
+*In Proceedings of **International Conference on Artificial Intelligence and Statistics (AISTATS) 2024***
+
 **Uniform Sampling over Episode Difficulty** [[pdf](https://arxiv.org/pdf/2108.01662.pdf)]<br/>
 Sébastien M. R. Arnold\*, **Guneet S. Dhillon**\*, Avinash Ravichandran, Stefano Soatto<br/>
 \* Equal contributions<br/>
