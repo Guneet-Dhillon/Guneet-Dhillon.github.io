@@ -3,17 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Preprints"
-    url: /preprints/
+  - title: "Preprints and Other Articles"
+    url: /preprints_and_articles/
 
   - title: "Theses"
     url: /theses/
 
   - title: "Patents"
     url: /patents/
-    
-  - title: "Other Articles"
-    url: /articles/
     
   - title: "CV"
     url: /cv/
